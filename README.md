@@ -1,6 +1,6 @@
 
 # Library Desktop Store
-
+    it's A book store made using Java, JavaSwing and online Sql database
 
 https://user-images.githubusercontent.com/73145539/210693548-e98572b0-a3de-4dd0-99ef-84fb78495bde.mp4
 
