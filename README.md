@@ -17,7 +17,7 @@ https://user-images.githubusercontent.com/73145539/210693548-e98572b0-a3de-4dd0-
         <tr>
             <td><h4><a href="https://github.com/PeterTorki">Peter Joseph</a></h4></td>
             <td><h4><a href="https://github.com/1Ahmedzedan">Ahmed Zedan</a></h4></td>
-            <td><h4><a href="https://github.com/https://www.linkedin.com/in/mai-hetemy-533b65248/">Mai Hatemy</a></h4></td>
+            <td><h4><a href="https://www.linkedin.com/in/mai-hetemy-533b65248/">Mai Hatemy</a></h4></td>
         </tr>
         <tr>
             <td><h4><a href="https://www.linkedin.com/in/heba-ezz-361773250/">Heba Ezz</a></h4></td>
